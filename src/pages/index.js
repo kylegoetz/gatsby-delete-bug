@@ -1,3 +1,6 @@
 import React from "react"
+import axios from 'axios'
 
-export default () => <div>Hello world!</div>
+export default () => {
+  return <div>Hello world!</div>
+}
